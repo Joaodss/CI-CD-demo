@@ -1,7 +1,7 @@
 package com.ironhack.cicddemo;
 
 public class Demo {
-    private String sampleText = "Hello world!";
+    private String sampleText = "Hello!";
 
 
     // Getter
