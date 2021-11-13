@@ -1,7 +1,7 @@
 package com.ironhack.cicddemo;
 
 public class Demo {
-    private String sampleText = "Hello!";
+    private String sampleText = "Hello world!";
 
 
     public String getSampleText() {
@@ -11,5 +11,7 @@ public class Demo {
     public void setSampleText(String sampleText) {
         this.sampleText = sampleText;
     }
+
+    // new methods
 
 }
