@@ -4,7 +4,6 @@ public class Demo {
     private String sampleText = "Hello!";
 
 
-    // Getter
     public String getSampleText() {
         return sampleText;
     }
