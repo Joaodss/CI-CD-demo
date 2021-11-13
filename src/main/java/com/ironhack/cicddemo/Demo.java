@@ -12,4 +12,6 @@ public class Demo {
         this.sampleText = sampleText;
     }
 
+    // new methods
+
 }
