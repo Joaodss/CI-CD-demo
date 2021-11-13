@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class demoTest {
+class DemoTest {
     private final Demo demo = new Demo();
 
     @Test
